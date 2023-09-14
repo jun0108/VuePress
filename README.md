@@ -1,1 +1,5 @@
-# VuePress
+# VuePress Example
+
+```
+npm run dev
+```
